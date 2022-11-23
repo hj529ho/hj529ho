@@ -3,6 +3,8 @@
 회사에서 업무로로 게임 만들다가 퇴근하고 취미로 게임만들고 있습니다.
 
 #### 기술스택
+<img src="https://img.shields.io/badge/unity-black?style=plastic&logo=Unity&logoColor=white"/>
+
 >- 유니티 C#
 >- Django(Python) - RestAPI
 >- Docker,AWS 서버 인프라
