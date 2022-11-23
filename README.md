@@ -3,15 +3,13 @@
 회사에서 업무로로 게임 만들다가 퇴근하고 취미로 게임만들고 있습니다.
 
 #### 기술스택
-<img src="https://img.shields.io/badge/unity-black?style=plastic&logo=Unity&logoColor=white"/>
-
->- 유니티 C#
->- Django(Python) - RestAPI
->- Docker,AWS 서버 인프라
+><img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
+><img src="https://img.shields.io/badge/docker-092e20?style=flat-square&logo=django&logoColor=white"/> 
+><img src="https://img.shields.io/badge/docker-2496ed?style=flat-square&logo=docker&logoColor=white"/> 
 
 #### 관심분야
->- 실시간서버(TCP/UDP)
->- 언리얼5
+><img src="https://img.shields.io/badge/실시간서버-239120?style=flat-square&logo=Csharp&logoColor=white"/>
+><img src="https://img.shields.io/badge/Unreal Engine5-0e1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 
 <!--
 **hj529ho/hj529ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
