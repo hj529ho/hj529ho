@@ -15,7 +15,7 @@
  - ~~미연시~~ (완료)
  - 어린시절 추억 게임 (진행중)
  - 뿌리는 향수 게임 (예정)
-
+<img src="https://ghchart.rshah.org/8a2be2/hj529ho"/>
 
 <!--
 **hj529ho/hj529ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
