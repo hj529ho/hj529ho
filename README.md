@@ -4,7 +4,7 @@
 
 #### 기술스택
 ><img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
-><img src="https://img.shields.io/badge/docker-092e20?style=flat-square&logo=django&logoColor=white"/> 
+><img src="https://img.shields.io/badge/django-092e20?style=flat-square&logo=django&logoColor=white"/> 
 ><img src="https://img.shields.io/badge/docker-2496ed?style=flat-square&logo=docker&logoColor=white"/> 
 
 #### 관심분야
