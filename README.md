@@ -7,7 +7,7 @@
 
 
 #### 만들었던 게임들
-[![u&i](https://youtu.be/qpWYbDjcLaw/0.jpg)](https://youtu.be/qpWYbDjcLaw)
+[![u&i](https://youtu.be//qpWYbDjcLaw/0.jpg)](https://youtu.be/qpWYbDjcLaw)
 
 
 
