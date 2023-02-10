@@ -8,7 +8,7 @@
 
 #### 만들었던 게임들
 VR,PC 멀티플랫폼 퍼즐게임 - BigFriend
-[i[bigFriend](https://img.youtu.com/vi/4gb9R7yXvJQ/0.jpg)](https://youtu.be/4gb9R7yXvJQ)
+[i[bigFriend](https://img.youtube.com/vi/4gb9R7yXvJQ/0.jpg)](https://youtu.be/4gb9R7yXvJQ)
 
 스트리머 팬게임 - 나와 이세계아이돌 이야기
 [![u&i](https://img.youtube.com/vi/qpWYbDjcLaw/0.jpg)](https://youtu.be/qpWYbDjcLaw)
