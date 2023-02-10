@@ -21,7 +21,7 @@ VR,PC 멀티플랫폼 퍼즐게임 - BigFriend
 
 랜덤박스 앱 - 캐치유
 
-[![catchu](https://img.youtube.com//mGf48P3_zlo/0.jpg)](https://www.youtube.com/mGf48P3_zlo)
+[![catchu](https://img.youtube.com/vi/mGf48P3_zlo/0.jpg)](https://youtu.be/mGf48P3_zlo)
 
 ### 🔭 기술스택
 ><img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
