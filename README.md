@@ -1,4 +1,4 @@
-### 스트릿 게임 개발자 정호진입니다. 👋
+## 스트릿 게임 개발자 정호진입니다. 👋
 
 회사에서 업무로로 게임 만들다가 퇴근하고 취미로 개발 합니다.
 
@@ -6,7 +6,7 @@
 
 
 
-#### 만들었던 게임들
+### 만들었던 게임들
 그리드 맵 에디터 - NewbiesGridEditor
 
 [![bigFriend](https://img.youtube.com/vi/d1at_ebVVHs/0.jpg)](https://youtu.be/d1at_ebVVHs)
@@ -21,12 +21,12 @@ VR,PC 멀티플랫폼 퍼즐게임 - BigFriend
 
 
 
-#### 🔭 기술스택
+### 🔭 기술스택
 ><img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
 ><img src="https://img.shields.io/badge/django-092e20?style=flat-square&logo=django&logoColor=white"/> 
 ><img src="https://img.shields.io/badge/docker-2496ed?style=flat-square&logo=docker&logoColor=white"/> 
 
-#### 🌱 관심분야
+### 🌱 관심분야
 ><img src="https://img.shields.io/badge/실시간서버-239120?style=flat-square&logo=Csharp&logoColor=white"/>
 ><img src="https://img.shields.io/badge/Unreal Engine5-0e1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 
