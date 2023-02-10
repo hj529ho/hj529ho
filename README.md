@@ -1,6 +1,7 @@
 ### 스트릿 게임 개발자 김꿀독입니다. 👋
 
-회사에서 업무로로 게임 만들다가 퇴근하고 취미로 게임만들고 있습니다.
+회사에서 업무로로 게임 만들다가 퇴근하고 취미로 개발 합니다.
+주로 스트리머 우왁굳 카페(왁물원)에서 동인 팬게임을 만들고 있습니다.
 
 #### 🔭 기술스택
 ><img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
@@ -10,6 +11,8 @@
 #### 🌱 관심분야
 ><img src="https://img.shields.io/badge/실시간서버-239120?style=flat-square&logo=Csharp&logoColor=white"/>
 ><img src="https://img.shields.io/badge/Unreal Engine5-0e1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
+
+
 
 프로젝트 목록(3)
  - ~~미연시~~ (완료)
