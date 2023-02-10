@@ -7,7 +7,7 @@
 
 
 #### 만들었던 게임들
-VR,PC 멀티플랫폼 퍼즐게임 - BigFriend
+그리드 맵 에디터 - NewbiesGridEditor
 
 [![bigFriend](https://img.youtube.com/vi/d1at_ebVVHs/0.jpg)](https://youtu.be/d1at_ebVVHs)
 
