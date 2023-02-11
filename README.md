@@ -32,15 +32,16 @@ VR,PC 멀티플랫폼 퍼즐게임 - BigFriend
 ><img src="https://img.shields.io/badge/실시간서버-239120?style=flat-square&logo=Csharp&logoColor=white"/>
 ><img src="https://img.shields.io/badge/Unreal Engine5-0e1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 
+회사 프로젝트 목록
+ - 캐치유
 
-
-프로젝트 목록(3)
+취미 프로젝트 목록
  - ~~미연시~~ (완료)
  - 어린시절 향수 게임 (진행중)
  - 뿌리는 향수 게임 (예정)
  - 똥겜(미니게임) 시리즈(진행중)
  - 동물 정리 퍼즐 게임(진행중)
- - 레이싱게임(예정)
+ 
 <img src="https://ghchart.rshah.org/8a2be2/hj529ho"/>
 
 <!--
