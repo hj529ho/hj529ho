@@ -6,7 +6,7 @@
 
 
 
-### 만들었던 게임들
+### 만들었던 게임들(클릭시 영상으로 넘어갑니다.)
 그리드 맵 에디터 - NewbiesGridEditor
 
 [![bigFriend](https://img.youtube.com/vi/d1at_ebVVHs/0.jpg)](https://youtu.be/d1at_ebVVHs)
