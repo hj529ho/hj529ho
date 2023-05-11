@@ -24,6 +24,7 @@ VR,PC 멀티플랫폼 퍼즐게임 - BigFriend
 [![catchu](https://img.youtube.com/vi/mGf48P3_zlo/0.jpg)](https://youtu.be/mGf48P3_zlo)
 
 스트리머 팬게임 - RE:MIND
+
 [![remind](https://img.youtube.com/vi/qOwewrl_fOA/0.jpg)](https://youtu.be/qOwewrl_fOA)
 
 ### 🔭 기술스택
