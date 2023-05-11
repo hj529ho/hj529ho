@@ -15,7 +15,7 @@
 
 [![bigFriend](https://img.youtube.com/vi/4gb9R7yXvJQ/0.jpg)](https://youtu.be/4gb9R7yXvJQ)
 
-(2022) 스트리머 팬게임 - 나와 이세계아이돌 이야기 (개발참여)
+(2022) 스트리머 팬게임 - 나와 이세계아이돌 이야기 (개발참여 - 개발자 3인)
 
 [![u&i](https://img.youtube.com/vi/qpWYbDjcLaw/0.jpg)](https://youtu.be/qpWYbDjcLaw)
 
