@@ -7,23 +7,23 @@
 
 
 ### 만들었던 게임들(클릭시 영상으로 넘어갑니다.)
-그리드 맵 에디터 - NewbiesGridEditor
+그리드 맵 에디터 - NewbiesGridEditor (1인개발)
 
 [![bigFriend](https://img.youtube.com/vi/d1at_ebVVHs/0.jpg)](https://youtu.be/d1at_ebVVHs)
 
-VR,PC 멀티플랫폼 퍼즐게임 - BigFriend
+VR,PC 멀티플랫폼 퍼즐게임 - BigFriend (1인개발)
 
 [![bigFriend](https://img.youtube.com/vi/4gb9R7yXvJQ/0.jpg)](https://youtu.be/4gb9R7yXvJQ)
 
-스트리머 팬게임 - 나와 이세계아이돌 이야기
+스트리머 팬게임 - 나와 이세계아이돌 이야기 (개발참여)
 
 [![u&i](https://img.youtube.com/vi/qpWYbDjcLaw/0.jpg)](https://youtu.be/qpWYbDjcLaw)
 
-랜덤박스 앱 - 캐치유
+랜덤박스 앱 - 캐치유 (개발자 1인)
 
 [![catchu](https://img.youtube.com/vi/mGf48P3_zlo/0.jpg)](https://youtu.be/mGf48P3_zlo)
 
-스트리머 팬게임 - RE:MIND
+스트리머 팬게임 - RE:MIND (개발자 1인)
 
 [![remind](https://img.youtube.com/vi/qOwewrl_fOA/0.jpg)](https://youtu.be/qOwewrl_fOA)
 
