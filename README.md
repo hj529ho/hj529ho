@@ -31,6 +31,8 @@
 
 [![282puzzle](https://img.youtube.com/vi/_gJyAh9A_UY/0.jpg)](https://youtu.be/_gJyAh9A_UY)
 
+(2023) 라이브 서비스 게임 - 주디 좀 귀여운 슬라임 (클라이언트 개발)
+
 ### 🔭 기술스택
 ><img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
 ><img src="https://img.shields.io/badge/django-092e20?style=flat-square&logo=django&logoColor=white"/> 
