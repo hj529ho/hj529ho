@@ -43,14 +43,15 @@
 ><img src="https://img.shields.io/badge/Unreal Engine5-0e1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 
 회사 프로젝트 목록
- - 캐치유(완료)
- - 주디-좀 귀여운 슬라임 (라이브서비스 중)
+ - 캐치유(출시 완료 후 퇴사)
+ - 주디 - 좀 귀여운 슬라임(라이브서비스 중)
 
 취미 프로젝트 목록
  - 이세계아이돌 미연시 (완료)
- - 어린시절 향수 게임 (완료)
+ - Re:mind (완료)
  - 시뮬레이션 장르 게임(진행 중)
  - 차가리 미연시(진행 중)
+ - 꿀미큐브 루미큐브 (진행 중)
  
 <img src="https://ghchart.rshah.org/8a2be2/hj529ho"/>
 
