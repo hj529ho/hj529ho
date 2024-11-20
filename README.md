@@ -11,6 +11,9 @@ https://github.com/hj529ho/MergeGame
 ## 만들었던 게임들(클릭시 영상으로 넘어갑니다.)
 
 ### 개인/팀 프로젝트
+(2024) 카툰 렌더링
+
+[![cartoon](https://img.youtube.com/vi/d1at_ebVVHs/0.jpg)](https://youtu.be/1u6w3ITyH0U?si=PqgxzaTbfke9Df_M)</br>
 (2020) 그리드 맵 에디터 - NewbiesGridEditor (1인개발)</br>
 [![bigFriend](https://img.youtube.com/vi/d1at_ebVVHs/0.jpg)](https://youtu.be/d1at_ebVVHs)</br>
 (2020) VR,PC 멀티플랫폼 퍼즐게임 - BigFriend (1인개발)</br>
