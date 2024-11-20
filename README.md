@@ -25,7 +25,7 @@ https://github.com/hj529ho/MergeGame
 ### 회사 프로젝트
 
 (2022) 랜덤박스 앱 - 캐치유 (개발자 1인)</br>
-[![catchu]([https://img.youtube.com/vi/mGf48P3_zlo/0.jpg](https://play-lh.googleusercontent.com/EMq53spZs6gKJXT6drAWIseZK8-ZazeBxD1sETpZq3L3JjqhqhVKQx3l__ZUSCuDt6gR=s96-rw))](https://play.google.com/store/apps/details?id=com.KLP.RZG)</br>
+[![joody](https://play-lh.googleusercontent.com/EMq53spZs6gKJXT6drAWIseZK8-ZazeBxD1sETpZq3L3JjqhqhVKQx3l__ZUSCuDt6gR=s96-rw)](https://play.google.com/store/apps/details?id=com.KLP.RZG)</br>
 (2023) 라이브 서비스 게임 - 주디 좀 귀여운 슬라임 (클라이언트 개발)</br>
 [![joody](https://play-lh.googleusercontent.com/yz25BVCxhRfvO8vJ4OGHNrnQCODIAEOPBnM1ZeFPU20uRt-o2WP3Csjx_dH4sfYOljRz=s96-rw)](https://play.google.com/store/apps/details?id=com.joodyrn)</br>
 (2024) 머지픽셀타워 -자라나라 슬라임타워(클라이언트 개발)</br>
