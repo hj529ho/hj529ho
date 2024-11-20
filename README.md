@@ -9,6 +9,8 @@ https://github.com/hj529ho/MergeGame
 에 있습니다.
 
 ### 만들었던 게임들(클릭시 영상으로 넘어갑니다.)
+
+#### 개인/팀 프로젝트
 (2020) 그리드 맵 에디터 - NewbiesGridEditor (1인개발)
 
 [![bigFriend](https://img.youtube.com/vi/d1at_ebVVHs/0.jpg)](https://youtu.be/d1at_ebVVHs)
@@ -21,10 +23,6 @@ https://github.com/hj529ho/MergeGame
 
 [![u&i](https://img.youtube.com/vi/qpWYbDjcLaw/0.jpg)](https://youtu.be/qpWYbDjcLaw)
 
-(2022) 랜덤박스 앱 - 캐치유 (개발자 1인)
-
-[![catchu](https://img.youtube.com/vi/mGf48P3_zlo/0.jpg)](https://youtu.be/mGf48P3_zlo)
-
 (2023) 스트리머 팬게임 - RE:MIND (개발자 1인)
 
 [![remind](https://img.youtube.com/vi/qOwewrl_fOA/0.jpg)](https://youtu.be/qOwewrl_fOA)
@@ -33,8 +31,13 @@ https://github.com/hj529ho/MergeGame
 
 [![282puzzle](https://img.youtube.com/vi/_gJyAh9A_UY/0.jpg)](https://youtu.be/_gJyAh9A_UY)
 
-(2023) 라이브 서비스 게임 - 주디 좀 귀여운 슬라임 (클라이언트 개발)
+#### 회사 프로젝트
 
+(2022) 랜덤박스 앱 - 캐치유 (개발자 1인)
+
+[![catchu](https://img.youtube.com/vi/mGf48P3_zlo/0.jpg)](https://youtu.be/mGf48P3_zlo)
+
+(2023) 라이브 서비스 게임 - 주디 좀 귀여운 슬라임 (클라이언트 개발)
 
 [![joody](https://play-lh.googleusercontent.com/yz25BVCxhRfvO8vJ4OGHNrnQCODIAEOPBnM1ZeFPU20uRt-o2WP3Csjx_dH4sfYOljRz=s96-rw)](https://play.google.com/store/apps/details?id=com.joodyrn)
 
