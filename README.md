@@ -9,7 +9,7 @@ https://github.com/hj529ho/MergeGame
 
 ### 개인/팀 프로젝트
 (2024) 카툰 렌더링<br>
-[![cartoon](https://img.youtube.com/vi/1u6w3ITyH0U/0.jpg)](https://youtu.be/1u6w3ITyH0U?si=PqgxzaTbfke9Df_M)</br>
+[![cartoon](https://img.youtube.com/vi/Egx9t2RTPNY/0.jpg)](https://youtu.be/Egx9t2RTPNY)</br>
 github => https://github.com/hj529ho/ToonShader</br>
 
 (2020) 그리드 맵 에디터 - NewbiesGridEditor (1인개발)</br>
