@@ -8,6 +8,9 @@ https://github.com/hj529ho/MergeGame
 ## 만들었던 게임들(클릭시 영상으로 넘어갑니다.)
 
 ### 개인/팀 프로젝트
+(2025) 카툰 렌더링</br>
+[![cartton](https://img.youtube.com/vi/QvvSWEcFZxI/0.jpg)](https://youtu.be/QvvSWEcFZxI)</br>
+
 (2024) 카툰 렌더링<br>
 [![cartoon](https://img.youtube.com/vi/Egx9t2RTPNY/0.jpg)](https://youtu.be/Egx9t2RTPNY)</br>
 github => https://github.com/hj529ho/ToonShader</br>
