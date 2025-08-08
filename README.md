@@ -21,11 +21,11 @@ github => https://github.com/hj529ho/ToonShader</br>
 (2020) VR,PC 멀티플랫폼 퍼즐게임 - BigFriend (1인개발)</br>
 [![bigFriend](https://img.youtube.com/vi/4gb9R7yXvJQ/0.jpg)](https://youtu.be/4gb9R7yXvJQ)</br>
 (2022) 스트리머 팬게임 - 나와 이세계아이돌 이야기 (개발참여 - 개발자 3인)</br>
-[![u&i](https://img.youtube.com/vi/qpWYbDjcLaw/0.jpg)](https://youtu.be/qpWYbDjcLaw)</br>
+[![u&i](https://img.youtube.com/vi/zpG-b4uW0Ko/0.jpg)](https://youtu.be/zpG-b4uW0Ko)</br>
 (2023) 스트리머 팬게임 - RE:MIND (개발자 1인)</br>
 [![remind](https://img.youtube.com/vi/qOwewrl_fOA/0.jpg)](https://youtu.be/qOwewrl_fOA)</br>
 (2023) 스트리머 팬게임 - 신비한동물퍼즐 (개발자 1인)</br>
-[![282puzzle](https://img.youtube.com/vi/_gJyAh9A_UY/0.jpg)](https://youtu.be/_gJyAh9A_UY)</br>
+[![282puzzle](https://img.youtube.com/vi/696Pa3RvUWM/0.jpg)](https://youtu.be/696Pa3RvUWM)</br>
 
 ### 회사 프로젝트
 
