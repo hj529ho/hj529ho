@@ -43,7 +43,7 @@ github => https://github.com/hj529ho/ToonShader</br>
 
 ### 🌱 관심분야
 ><img src="https://img.shields.io/badge/실시간서버-239120?style=flat-square&logo=Csharp&logoColor=white"/>
-><img src="https://img.shields.io/badge/Unreal Engine5-0e1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
+><img src="https://img.shields.io/badge/AI,LLM-239120?style=flat-square&logo=Csharp&logoColor=white"/>
 
 회사 프로젝트 목록
  - 캐치유(출시 완료 후 퇴사)
