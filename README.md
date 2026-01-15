@@ -1,13 +1,13 @@
 # 스트릿 게임 개발자 정호진입니다. 👋
 
 회사에서 업무로 게임 개발하다가 퇴근하고 취미로 게임 개발 합니다.
-~~가장 최근 만들었던~~ 머지 게임에 대한 C# 코드는 
-https://github.com/hj529ho/MergeGame
-에 있습니다.
 
 ## 만들었던 게임들(클릭시 영상으로 넘어갑니다.)
 
 ### 개인/팀 프로젝트
+(2026) Rapki Skill Editor</br>
+[SkillEditor](https://github.com/hj529ho/RapkiSkillEditor_Unity)
+
 (2025) 카툰 렌더링</br>
 [![cartton](https://img.youtube.com/vi/QvvSWEcFZxI/0.jpg)](https://youtu.be/QvvSWEcFZxI)</br>
 
