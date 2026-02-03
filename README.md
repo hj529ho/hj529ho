@@ -35,8 +35,8 @@ github => https://github.com/hj529ho/ToonShader</br>
 [![joody](https://play-lh.googleusercontent.com/yz25BVCxhRfvO8vJ4OGHNrnQCODIAEOPBnM1ZeFPU20uRt-o2WP3Csjx_dH4sfYOljRz=s96-rw)](https://play.google.com/store/apps/details?id=com.joodyrn)</br>
 (2024) 머지픽셀타워 -자라나라 슬라임타워(클라이언트 개발, 설계부터 런칭까지 메인 로직 개발)</br>
 [![mergePixel](https://play-lh.googleusercontent.com/qEZRkzese4AK-bZflHOfypJ82rC5-ydPTD0FXJPwqORg2RFbwZZCuXonEPB6cFeOPQc=s96-rw)](https://play.google.com/store/apps/details?id=io.consalad.pstaos)</br>
-(2025) 점핑아일랜드
-[![mergePixel](https://play-lh.googleusercontent.com/BLdVpBRWD2iTncfq020IZrn05APXKmAZOzXSLaQWIoc5i-PRTMqnuTx23Ghz10ZPzFbrmEoNOo-yy8TQebY7HQ=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.hama.tatata2&pcampaignid=web_share)</br>
+(2025) 점핑아일랜드</br>
+[![jumpingIsland](https://play-lh.googleusercontent.com/BLdVpBRWD2iTncfq020IZrn05APXKmAZOzXSLaQWIoc5i-PRTMqnuTx23Ghz10ZPzFbrmEoNOo-yy8TQebY7HQ=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.hama.tatata2&pcampaignid=web_share)</br>
 
 ### 🔭 기술스택
 ><img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
