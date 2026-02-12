@@ -12,7 +12,6 @@
 [![cartton](https://img.youtube.com/vi/QvvSWEcFZxI/0.jpg)](https://youtu.be/QvvSWEcFZxI)</br>
 
 (2024) 카툰 렌더링<br>
-[![cartoon](https://img.youtube.com/vi/Egx9t2RTPNY/0.jpg)](https://youtu.be/Egx9t2RTPNY)</br>
 github => https://github.com/hj529ho/ToonShader</br>
 작성 중인 연구 글 => https://github.com/hj529ho/ToonRenderResearch</br>
 
