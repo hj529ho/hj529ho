@@ -38,29 +38,29 @@
 
 ### 회사 프로젝트
 
-1. 캐치유 (랜덤박스 앱, Unity, 2022)</br>
+(2022)캐치유 (랜덤박스 앱, Unity)</br>
 - 역할: 클라이언트 / 서버 풀스택 1인 개발
 - 프로그래밍 인원 : 1인
 - 기여: UI/UX 전면 개발, MVC/오브젝트 풀링 적용, 사용자 흐름 재설계
 - 추가 기여: 클라이언트 중심 로직을 서버 중심으로 전환(Django REST Framework, Docker, AWS EC2)
-- 성과: 운영 대응 속도 개선, 기능 변경 시 사이드 이펙트 감소 
+- 성과: 운영 대응 속도 개선, 기능 변경 시 사이드 이펙트 감소</br>
 [![chatchu](https://play-lh.googleusercontent.com/EMq53spZs6gKJXT6drAWIseZK8-ZazeBxD1sETpZq3L3JjqhqhVKQx3l__ZUSCuDt6gR=s96-rw)](https://play.google.com/store/apps/details?id=com.KLP.RZG)</br>
 
-2. 주디: 좀 귀여운 슬라임 (라이브 서비스,2023~2024)</br>
+(2023~2024)주디: 좀 귀여운 슬라임 (라이브 서비스)</br>
 - 역할: 클라이언트 개발 및 유지보수</br>
 - 프로그래밍 인원(클라이언트) : 4~5인</br>
 - 기여: Draw Call/메모리 병목 분석, Addressable Asset System 도입, 이미지 로딩 구조 개선, Jenkins 빌드 자동화</br>
 - 성과: 메모리 사용량 절감, 서비스 안정성 및 체감 성능 개선, 서버 트래픽 비용 감소</br>
 [![joody](https://play-lh.googleusercontent.com/yz25BVCxhRfvO8vJ4OGHNrnQCODIAEOPBnM1ZeFPU20uRt-o2WP3Csjx_dH4sfYOljRz=s96-rw)](https://play.google.com/store/apps/details?id=com.joodyrn)</br>
 
-3. 머지픽셀타워 / (자라나라 슬라임타워) (2024)</br>
+(2024)머지픽셀타워 / (자라나라 슬라임타워) </br>
 - 역할: 클라이언트 메인 로직 개발(설계~런칭)</br>
 - 프로그래밍 인원(클라이언트) : 2~3인</br>
 - 기여: 초기 구조 설계, 핵심 게임 로직 개발, Unity Localization 기반 8개 언어 대응, NOSQL 데이터베이스 관련 작업, Jenkins 빌드 자동화</br>
 - 성과: 글로벌 출시 대응 구조 확보, 다국어 운영 이슈 사전 완화</br>
 [![mergePixel](https://play-lh.googleusercontent.com/qEZRkzese4AK-bZflHOfypJ82rC5-ydPTD0FXJPwqORg2RFbwZZCuXonEPB6cFeOPQc=s96-rw)](https://play.google.com/store/apps/details?id=io.consalad.pstaos)</br>
 
-4. 점핑아일랜드 (2025)
+(2025)점핑아일랜드
 - 역할: 점프 기능(AR) 관련 핵심 기능 개발, 게임 기획</br>
 - 프로그래밍 인원 : 1인</br>
 - 기여 : 게임 기획, AR Foundation 기반 점핑 액션 게임 개발, NOSQL 데이터베이스 작업</br>
@@ -115,8 +115,8 @@
 </br></br>
 (2020) VR,PC 멀티플랫폼 퍼즐게임 - BigFriend (1인개발)</br>
 - 역할: 1인 개발(기획~개발), 동아리 팀장</br>
-- 기여: VR/PC 멀티플랫폼 개발, 비대면 협업 체계(Discord/GitHub) 운영</br>
-- 성과: 제한된 리소스 환경에서 프로젝트 완수 경험 축적</br>
+- 기여: VR/PC 멀티플랫폼 개발,Photon 멀티플레이 개발, 비대면 협업 체계(Discord/GitHub) 운영</br>
+- 성과: 제한된 리소스 환경에서 프로젝트 완수 경험 축적, G-Star 참가</br>
 
 [![bigFriend](https://img.youtube.com/vi/4gb9R7yXvJQ/0.jpg)](https://youtu.be/4gb9R7yXvJQ)</br>
 </br></br>
