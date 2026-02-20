@@ -47,71 +47,70 @@
 [![chatchu](https://play-lh.googleusercontent.com/EMq53spZs6gKJXT6drAWIseZK8-ZazeBxD1sETpZq3L3JjqhqhVKQx3l__ZUSCuDt6gR=s96-rw)](https://play.google.com/store/apps/details?id=com.KLP.RZG)</br>
 
 2. 주디: 좀 귀여운 슬라임 (라이브 서비스,2023~2024)</br>
-- 역할: 클라이언트 개발 및 유지보수
-- 프로그래밍 인원(클라이언트) : 4~5인
-- 기여: Draw Call/메모리 병목 분석, Addressable Asset System 도입, 이미지 로딩 구조 개선, Jenkins 빌드 자동화
-- 성과: 메모리 사용량 절감, 서비스 안정성 및 체감 성능 개선, 서버 트래픽 비용 감소
+- 역할: 클라이언트 개발 및 유지보수</br>
+- 프로그래밍 인원(클라이언트) : 4~5인</br>
+- 기여: Draw Call/메모리 병목 분석, Addressable Asset System 도입, 이미지 로딩 구조 개선, Jenkins 빌드 자동화</br>
+- 성과: 메모리 사용량 절감, 서비스 안정성 및 체감 성능 개선, 서버 트래픽 비용 감소</br>
 [![joody](https://play-lh.googleusercontent.com/yz25BVCxhRfvO8vJ4OGHNrnQCODIAEOPBnM1ZeFPU20uRt-o2WP3Csjx_dH4sfYOljRz=s96-rw)](https://play.google.com/store/apps/details?id=com.joodyrn)</br>
 
-3. 머지픽셀타워 / (자라나라 슬라임타워) (2024)
-- 역할: 클라이언트 메인 로직 개발(설계~런칭)
-- 프로그래밍 인원(클라이언트) : 2~3인
-- 기여: 초기 구조 설계, 핵심 게임 로직 개발, Unity Localization 기반 8개 언어 대응, NOSQL 데이터베이스 관련 작업, Jenkins 빌드 자동화
-- 성과: 글로벌 출시 대응 구조 확보, 다국어 운영 이슈 사전 완화
+3. 머지픽셀타워 / (자라나라 슬라임타워) (2024)</br>
+- 역할: 클라이언트 메인 로직 개발(설계~런칭)</br>
+- 프로그래밍 인원(클라이언트) : 2~3인</br>
+- 기여: 초기 구조 설계, 핵심 게임 로직 개발, Unity Localization 기반 8개 언어 대응, NOSQL 데이터베이스 관련 작업, Jenkins 빌드 자동화</br>
+- 성과: 글로벌 출시 대응 구조 확보, 다국어 운영 이슈 사전 완화</br>
 [![mergePixel](https://play-lh.googleusercontent.com/qEZRkzese4AK-bZflHOfypJ82rC5-ydPTD0FXJPwqORg2RFbwZZCuXonEPB6cFeOPQc=s96-rw)](https://play.google.com/store/apps/details?id=io.consalad.pstaos)</br>
 
 4. 점핑아일랜드 (2025)
-- 역할: 점프 기능(AR) 관련 핵심 기능 개발, 게임 기획
-- 프로그래밍 인원 : 1인
-- 기여 : 게임 기획, AR Foundation 기반 점핑 액션 게임 개발, NOSQL 데이터베이스 작업
-- 성과 : 정부 과제 숭행
-(2025) 점핑아일랜드</br>
+- 역할: 점프 기능(AR) 관련 핵심 기능 개발, 게임 기획</br>
+- 프로그래밍 인원 : 1인</br>
+- 기여 : 게임 기획, AR Foundation 기반 점핑 액션 게임 개발, NOSQL 데이터베이스 작업</br>
+- 성과 : 정부 과제 숭행</br>
 [![jumpingIsland](https://play-lh.googleusercontent.com/BLdVpBRWD2iTncfq020IZrn05APXKmAZOzXSLaQWIoc5i-PRTMqnuTx23Ghz10ZPzFbrmEoNOo-yy8TQebY7HQ=s96-rw)](https://play.google.com/store/apps/details?id=com.hama.tatata2&pcampaignid=web_share)</br>
 
-### 개인/팀 프로젝트
-아래 프로젝트들은 덕업일치 관점에서 팬게임과 개인 개발로 꾸준히 수련해온 작업들이며, 재미로 시작해도 실제로는 구현력과 협업 역량을 끌어올리는 실전 훈련이 되었습니다.
+### 개인/팀 프로젝트</br>
+아래 프로젝트들은 덕업일치 관점에서 팬게임과 개인 개발로 꾸준히 수련해온 작업들이며, 재미로 시작해도 실제로는 구현력과 협업 역량을 끌어올리는 실전 훈련이 되었습니다.</br>
 
 (2026) Rapki Skill Editor</br>
-- 역할: 1인 개발
-- 기여: 기획자 사용 중심 노드 기반 비주얼 스킬 에디터 구현(조건 분기/동적 값 계산/런타임 실행)
-- 성과: 반복 구현 비용 절감, 직군 간 의존성 완화
-[SkillEditor](https://github.com/hj529ho/RapkiSkillEditor_Unity)
+- 역할: 1인 개발</br>
+- 기여: 기획자 사용 중심 노드 기반 비주얼 스킬 에디터 구현(조건 분기/동적 값 계산/런타임 실행)</br>
+- 성과: 반복 구현 비용 절감, 직군 간 의존성 완화</br>
+[SkillEditor](https://github.com/hj529ho/RapkiSkillEditor_Unity)</br>
 
 (2026) 카툰 렌더링</br>
-- 역할: 연구/구현
-- 기여: 카툰 렌더링 핵심 요소(아웃라인/하프 램버트/림라이트) 단계별 실험 및 문서화
-- 성과: 셰이더 기술 역량 고도화, 팀 재사용 가능한 기술 자산 축적
+- 역할: 연구/구현</br>
+- 기여: 카툰 렌더링 핵심 요소(아웃라인/하프 램버트/림라이트) 단계별 실험 및 문서화</br>
+- 성과: 셰이더 기술 역량 고도화, 팀 재사용 가능한 기술 자산 축적</br>
 [![cartton](https://img.youtube.com/vi/QvvSWEcFZxI/0.jpg)](https://youtu.be/QvvSWEcFZxI)</br>
 작성 중인 연구 글 => https://github.com/hj529ho/ToonRenderResearch</br>
 
 (2023) 스트리머 팬게임 - 신비한동물퍼즐 (개발자 1인)</br>
-- 역할:  프로그래머 1인 개발
-- 기여: 퍼즐 게임 제작 전 과정 수행, 개발 1일, 리소스제작 7일로 단기간에 퀄리티 높은 게임을 개발
-- 성과: 유튜브 및 스트리밍에서 많은 호평을 받음
+- 역할:  프로그래머 1인 개발</br>
+- 기여: 퍼즐 게임 제작 전 과정 수행, 개발 1일, 리소스제작 7일로 단기간에 퀄리티 높은 게임을 개발</br>
+- 성과: 유튜브 및 스트리밍에서 많은 호평을 받음</br>
 [![282puzzle](https://img.youtube.com/vi/696Pa3RvUWM/0.jpg)](https://youtu.be/696Pa3RvUWM)</br>
 
 (2023) 스트리머 팬게임 - RE:MIND (개발자 1인)</br>
-- 역할: 프로그래머 1인 개발
+- 역할: 프로그래머 1인 개발</br>
 - 기여: 기획~구현~검증 전 과정 수행, 퀘스트, 미니게임, 대사 시스템, 카메라 연출 시스템등 스토리 게임에서 필요한 다양한 기능 구현,
-- 성과: 게임의 기초부터 쌓아서 완성하는 경험
+- 성과: 게임의 기초부터 쌓아서 완성하는 경험</br>
 [![remind](https://img.youtube.com/vi/qOwewrl_fOA/0.jpg)](https://youtu.be/qOwewrl_fOA)</br>
 
 (2022) 스트리머 팬게임 - 나와 이세계아이돌 이야기 (개발참여 - 개발자 3인)</br>
-- 역할: 개발 참여(개발자 3인)
-- 기여: 비개발 직군도 다룰 수 있는 데이터 구조(CSV/XML/JSON) 설계
-- 성과: 처음으로 다수의 개발자간 협업 프로젝트 경험, 협업 커뮤니케이션 비용 절감, 콘텐츠 수정 속도 개선
+- 역할: 개발 참여(개발자 3인)</br>
+- 기여: 비개발 직군도 다룰 수 있는 데이터 구조(CSV/XML/JSON) 설계</br>
+- 성과: 처음으로 다수의 개발자간 협업 프로젝트 경험, 협업 커뮤니케이션 비용 절감, 콘텐츠 수정 속도 개선</br>
 [![u&i](https://img.youtube.com/vi/zpG-b4uW0Ko/0.jpg)](https://youtu.be/zpG-b4uW0Ko)</br>
 
 (2020) 그리드 맵 에디터 - NewbiesGridEditor (1인개발)</br>
-- 역할: 1인 개발
-- 기여: Unity Custom Editor/Inspector 기반 그리드 배치 툴 제작
-- 성과: 아티스트 작업 시간 단축, 협업 효율 개선, 유니티 Custom Editor의 기초 학습
+- 역할: 1인 개발</br>
+- 기여: Unity Custom Editor/Inspector 기반 그리드 배치 툴 제작</br>
+- 성과: 아티스트 작업 시간 단축, 협업 효율 개선, 유니티 Custom Editor의 기초 학습</br>
 [![grid](https://img.youtube.com/vi/d1at_ebVVHs/0.jpg)](https://youtu.be/d1at_ebVVHs)</br>
 
 (2020) VR,PC 멀티플랫폼 퍼즐게임 - BigFriend (1인개발)</br>
-- 역할: 1인 개발(기획~개발), 동아리 팀장
-- 기여: VR/PC 멀티플랫폼 개발, 비대면 협업 체계(Discord/GitHub) 운영
-- 성과: 제한된 리소스 환경에서 프로젝트 완수 경험 축적
+- 역할: 1인 개발(기획~개발), 동아리 팀장</br>
+- 기여: VR/PC 멀티플랫폼 개발, 비대면 협업 체계(Discord/GitHub) 운영</br>
+- 성과: 제한된 리소스 환경에서 프로젝트 완수 경험 축적</br>
 [![bigFriend](https://img.youtube.com/vi/4gb9R7yXvJQ/0.jpg)](https://youtu.be/4gb9R7yXvJQ)</br>
 
 ### 경력
