@@ -141,8 +141,12 @@
 - 퇴사 사유: 경영악화
 
 5. (주)하마랩</br>
-- 기간 : 2025.01 ~ 재직중
+- 기간 : 2025.01 ~ 2025.02
 - 업무 : 점핑아일랜드 AR 게임, AI 융합 형 콘솔 게임 개발
+
+6. 컨샐러드</br>
+- 기간: 2025.03 - 재직중
+- 업무 : 주디-슬라임 키우기 신규 엔진 포팅
 
 ### 🔭 기술스택
 ><img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
